@@ -1,0 +1,9 @@
+[submodule "ccproject"]
+	path = ccproject
+	url = https://github.com/chenseanxy/1903-CCT-connector.git
+[submodule "helm-charts"]
+	path = helm-charts
+	url = https://github.com/chenseanxy/1903-CCT-helm-charts.git
+[submodule "python-client"]
+	path = python-client
+	url = https://github.com/chenseanxy/1903-CCT-python-client.git
